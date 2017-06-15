@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\8ff87860b6b0a3c2f8df8a97a7020812b1fffa03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf8fa0255be4b571bb8bc1afb157371cd5aff339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6c820f19aa75a0a260c799f49239a28e392fed01">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c1309f873b9195ec82a7fc5519ee2dd9089e592c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\90defbaca9cd2724b2b446cc3dca4eddde1a89e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad7b10748ea99224a725a650161242326b64a5dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\d588afd473f6c813202ee230dd5040bac0c024d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_786e44a8ab8f11c42ffc1a15dc5a20f1b33fc316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_450011e64270ce25e85c16108bd97cd9b1185644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\24869a48ca6d32c483c008c90ad6001df78b8a93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de1b2bbdcce19f35ff76421762ab5736e36f5b83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\37b0f62bc67aff0e3f1a4d644f322ca9a083056b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9db64538bde38a0414b3dc4c84d3e8da0ee34bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\ee5870ba6632408982427195eab9724134711c22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8c8e3458ecaa4104e0fff2e15af2589351f577b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\d8a9cf4e7ccd05a1ad6396727a2f6695decf6a46\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c2fac8661c958a4540413a12aa1687e1a1a0f715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\b74adb73dab940f4808058c7be04985d49cfd9ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af9e22369b15cb7aeccea7280cac8bb1de8e0028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\24869a48ca6d32c483c008c90ad6001df78b8a93\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_56f2b9bf38735613948803c3480aeae7d1504c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\90defbaca9cd2724b2b446cc3dca4eddde1a89e1\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0b21a41ae7c251842d2cf00e8e7c5a45ca136d41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_8b48cbc511a8669cb81fcdddb11ebbbc8f028345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\f341655bdf6a08fc5f4617037e00e33f897fe4dc\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_94afc76ffeb6452a1f285137b0bfcde7467e673b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\d8a9cf4e7ccd05a1ad6396727a2f6695decf6a46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca9c83069c970e6f7b90feb1e164d91b35995a21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\37b0f62bc67aff0e3f1a4d644f322ca9a083056b\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2a3f3e9d452feba7b1822d9149e5390727086480\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\f341655bdf6a08fc5f4617037e00e33f897fe4dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd9118836a52bf13d2fde724654e55d70a376379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8491c5e2e6d07010f9ea3156eaed58a0d97230ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joni\.android\build-cache\840a314195bd75dba8a4ca99be2c92c5b6bfab83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Joni\AndroidStudioProjects\TestWebApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f07f60c11414a181c5e2dcee91e46b9aef0957e\classes.dex" />
+    </item>
+
+</items>
